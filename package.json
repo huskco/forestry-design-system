@@ -1,13 +1,13 @@
 {
   "name": "forestry-design-system",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Design System for Husk",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "git@github.com:huskco/forestry-design-system.git",
   "license": "MIT",
-  "author": "",
+  "author": "Husk",
   "directories": {
     "doc": "doc",
     "test": "tests"
