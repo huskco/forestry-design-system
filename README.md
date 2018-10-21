@@ -1,23 +1,16 @@
-forestry-design-system
-==============================================================================
+# Forestry Design System
 
-[Short description of the addon.]
+A Design System for Husk Projects
 
-Installation
+
+## Installation
 ------------------------------------------------------------------------------
 
 ```
 ember install forestry-design-system
 ```
 
-
-Usage
-------------------------------------------------------------------------------
-
-[Longer description of how to use the addon in apps.]
-
-
-Contributing
+## Contributing
 ------------------------------------------------------------------------------
 
 ### Installation
@@ -45,7 +38,7 @@ Contributing
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
 
-License
+## License
 ------------------------------------------------------------------------------
 
 This project is licensed under the [MIT License](LICENSE.md).
