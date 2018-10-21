@@ -7,7 +7,7 @@ A Design System for Husk Projects
 ------------------------------------------------------------------------------
 
 ```
-ember install forestry-design-system
+ember install @husk/forestry-design-system
 ```
 
 ## Contributing
